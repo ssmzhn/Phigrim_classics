@@ -1,7 +1,7 @@
 # phigrim
 If you 急, then 自己写一个
 
-![爱玩玩不玩滚](phigrim/爱玩玩不玩滚.jpg)
+![爱玩玩不玩滚](phigrim/dontplay.jpg)
 
 ![Guy\_1](phigrim/Guy_1.jpg)
 
