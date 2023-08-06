@@ -5,6 +5,8 @@ If you 急, then 自己写一个
 
 ## 典
 
+![原神，启动！](phigrim/rythm_genshin.jpg)
+
 ![爱玩玩不玩滚](phigrim/dontplay.jpg)
 
 ![Guy\_1](phigrim/Guy_1.jpg)
